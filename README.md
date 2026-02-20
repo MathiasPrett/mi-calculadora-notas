@@ -1,0 +1,1 @@
+Full vibecodeado, solo para probar **streamlit**.
